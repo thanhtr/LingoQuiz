@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quizzes>
+  <quiz id="1" name="Quiz Title" intro="Quiz introduction" level="1">
+
+    <question que_id="1" text="Choose the correct sentence:" explanation="'Circumvent' mean to avoid or bypass something." correct_answer_id="1">
+      <answer answer_id="1" quiz_id="1" que_id="1" text="The sailor circumvented the world."></answer>
+      <answer answer_id="2" quiz_id="1" que_id="1" text="The sailor circumnavigated the world."></answer>
+    </question>
+    
+    <question que_id="2" text="Which of these is wrong?" explanation="Farmer's market is wrong because it means the market of just one farmer. Arguments can be made to support 'farmers' (and adjective) or 'farmers' (possessive of plural) market." correct_answer_id="2">
+      <answer answer_id="1" quiz_id="1" que_id="2" text="Farmers market"></answer>
+      <answer answer_id="2" quiz_id="1" que_id="2" text="Farmer's market"></answer>
+      <answer answer_id="3" quiz_id="1" que_id="2" text="Farmers' market"></answer>
+    </question>
+
+  </quiz>
+</quizzes>
